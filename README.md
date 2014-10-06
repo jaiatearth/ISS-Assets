@@ -1,4 +1,4 @@
 ISS-Assets
 ==========
 
-Worked  out images &amp; layouts for ISS tracker
+Includes the images and layouts, that is used & tested on ISS Tracker.
